@@ -9,6 +9,8 @@ sites:
     url: https://parcoapp-apis-ghostbuster.echo.parcoapp.com
   - name: Tesseract
     url: https://parcoapp-apis-tesseract.echo.parcoapp.com
+  - name: Andares
+    url: $SECRET_SITE_ANDARES
 
 assignees:
   - norman404
