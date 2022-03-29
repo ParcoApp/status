@@ -11,6 +11,8 @@ sites:
     url: https://parcoapp-apis-tesseract.echo.parcoapp.com
   - name: Andares
     url: $SECRET_SITE_ANDARES
+  - name: Dostop
+    url: $SECRET_SITE_DOSTOP
 
 assignees:
   - norman404
