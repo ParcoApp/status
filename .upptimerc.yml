@@ -23,7 +23,7 @@ status-website:
   # cname: /upptime
   theme: dark
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.parcoapp.com/assets/app/PARCO_LOGO_2.png
   name: Upptime
   introTitle: "**Upptime** pagina de estatus de ParcoApp"
   introMessage: Cualquier cosa, contactar con soporte.
