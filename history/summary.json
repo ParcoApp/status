@@ -58,7 +58,7 @@
     "url": "$SECRET_SITE_ANDARES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "andares",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "96.32%",
     "uptimeWeek": "99.47%",
