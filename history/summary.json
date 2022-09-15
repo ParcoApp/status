@@ -93,9 +93,9 @@
     "url": "$SECRET_SITE_DOSTOP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dostop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,6 +104,8 @@
     "timeWeek": 217,
     "timeMonth": 242,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
