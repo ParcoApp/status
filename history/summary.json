@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "carts-dev",
     "status": "up",
-    "uptime": "3.24%",
-    "uptimeDay": "3.24%",
-    "uptimeWeek": "3.24%",
-    "uptimeMonth": "3.24%",
-    "uptimeYear": "3.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 62,
     "timeDay": 62,
     "timeWeek": 62,
     "timeMonth": 62,
     "timeYear": 62,
-    "dailyMinutesDown": {
-      "2022-10-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hairs - dev",
@@ -151,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "services-dev",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 57,
     "timeDay": 57,
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-10-26": 4
+      "2022-10-26": 5
     }
   },
   {
