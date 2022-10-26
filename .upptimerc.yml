@@ -10,7 +10,7 @@ sites:
   - name: Campaigns - dev
     url: https://net.env.parcoapp.com/campaigns
   - name: Carts - dev
-    url: https://net.env.parcoapp.com/carts
+    url: https://net.env.parcoapp.com/carts/status
   - name: Hairs - dev
     url: https://net.env.parcoapp.com/hairs
   - name: News - dev
