@@ -22,7 +22,7 @@ sites:
   - name: Services - dev
     url: https://net.env.parcoapp.com/services
   - name: Users - dev
-    url: https://net.env.parcoapp.com/users
+    url: https://net.env.parcoapp.com/users/status
   - name: Wallet - dev
     url: https://net.env.parcoapp.com/wallet
   - name: Andares
