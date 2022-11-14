@@ -76,19 +76,19 @@
     "url": "https://net.env.parcoapp.com/hairs",
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "hairs-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 77,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 77,
+    "timeDay": 87,
+    "timeWeek": 80,
+    "timeMonth": 77,
+    "timeYear": 77,
     "dailyMinutesDown": {
-      "2022-11-14": 0
+      "2022-11-14": 37
     }
   },
   {
