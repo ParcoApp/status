@@ -29,7 +29,10 @@ sites:
     url: $SECRET_SITE_ANDARES
   - name: Dostop
     url: $SECRET_SITE_DOSTOP
-
+  - name: Tesseract - dev
+    url: $SECRET_SITE_TESSERACT
+  - name: Tesseract - Prod
+    url: $SECRET_SITE_TESSERACT_PROD
 assignees:
   - norman404
 
