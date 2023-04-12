@@ -1,7 +1,7 @@
 url: https://net.env.parcoapp.com/autotraze
-status: down
-code: 503
-responseTime: 147
-lastUpdated: 2023-04-12T22:28:36.184Z
+status: up
+code: 200
+responseTime: 186
+lastUpdated: 2023-04-12T23:07:27.749Z
 startTime: Wed Oct 26 2022 17:30:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
