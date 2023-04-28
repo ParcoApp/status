@@ -67,7 +67,7 @@ sites:
   - name: Wallet Parco1.0 Prod
     url: $SECRET_SITE_WALLETV1_PROD
   - name: Princes Parco1.0 Prod
-    url: $SECRET_SITE_WALLETV1_PROD
+    url: $SECRET_SITE_PRINCESV1_PROD
   - name: Wiki
     url: $SECRET_SITE_WIKI
 assignees:
