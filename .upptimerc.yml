@@ -33,13 +33,6 @@ sites:
   - name: Autotraze Prod
     url: $SECRET_SITE_AUTOTRAZE_PROD
   - name: Campaigns Prod
-#       Parco 1.0
-  - name: Wallet Parco1.0 Prod
-    url: $SECRET_SITE_WALLETV1_PROD
-  - name: Princes Parco1.0 Prod
-    url: $SECRET_SITE_WALLETV1_PROD
-  - name: Wiki
-    url: $SECRET_SITE_WIKI
     url: $SECRET_SITE_CAMPAIGNS_PROD
   - name: Carts Prod
     url: $SECRET_SITE_CARTS_PROD
