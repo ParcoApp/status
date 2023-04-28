@@ -506,18 +506,20 @@
     "url": "$SECRET_SITE_WALLETV1_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wallet-parco1-0-prod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 210,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.11%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.11%",
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
+    "dailyMinutesDown": {
+      "2023-04-28": 0
+    }
   },
   {
     "name": "Princes Parco1.0 Prod",
