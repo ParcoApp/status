@@ -506,19 +506,19 @@
     "url": "$SECRET_SITE_WALLETV1_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wallet-parco1-0-prod",
-    "status": "down",
-    "uptime": "97.11%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "97.11%",
-    "uptimeYear": "97.11%",
-    "time": 175,
-    "timeDay": 175,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "status": "up",
+    "uptime": "56.88%",
+    "uptimeDay": "56.88%",
+    "uptimeWeek": "56.88%",
+    "uptimeMonth": "56.88%",
+    "uptimeYear": "56.88%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-04-28": 0
+      "2023-04-28": 10
     }
   },
   {
