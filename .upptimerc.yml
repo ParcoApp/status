@@ -26,41 +26,41 @@ sites:
   - name: Wallet - dev
     url: https://net.env.parcoapp.com/wallet
   # PROD
-  - name: Access Prod
-    url: $SECRET_SITE_ACCESS_PROD
-  - name: Autotraze Prod
-    url: $SECRET_SITE_AUTOTRAZE_PROD
-  - name: Campaigns Prod
-    url: $SECRET_SITE_CAMPAIGNS_PROD
-  - name: Carts Prod
-    url: $SECRET_SITE_CARTS_PROD
-  - name: Fidelity Prod
-    url: $SECRET_SITE_FIDELITY_PROD
-  - name: Ghostbuster Prod
-    url: $SECRET_SITE_GHOSTBUSTER_PROD
-  - name: Hairs Prod
-    url: $SECRET_SITE_HAIRS_PROD
-  - name: News Prod
-    url: $SECRET_SITE_NEWS_PROD
-  - name: Orchestrator Prod
-    url: $SECRET_SITE_ORCHESTRATOR_PROD
-  - name: Promocao Prod
-    url: $SECRET_SITE_PROMOCAO_PROD
-  - name: Tesseract - Prod
-    url: $SECRET_SITE_TESSERACT_PROD
-  - name: Service Prod
-    url: $SECRET_SITE_SERVICE_PROD
-  - name: User Prod
-    url: $SECRET_SITE_USER_PROD
-  - name: Wallet Prod
-    url: $SECRET_SITE_WALLET_PROD
-#     Parco 1.0
-  - name: Wallet Parco1.0 Prod
-    url: $SECRET_SITE_WALLETV1_PROD
-  - name: Princes Parco1.0 Prod
-    url: $SECRET_SITE_PRINCESV1_PROD
-  - name: Wiki
-    url: $SECRET_SITE_WIKI
+#   - name: Access Prod
+#     url: $SECRET_SITE_ACCESS_PROD
+#   - name: Autotraze Prod
+#     url: $SECRET_SITE_AUTOTRAZE_PROD
+#   - name: Campaigns Prod
+#     url: $SECRET_SITE_CAMPAIGNS_PROD
+#   - name: Carts Prod
+#     url: $SECRET_SITE_CARTS_PROD
+#   - name: Fidelity Prod
+#     url: $SECRET_SITE_FIDELITY_PROD
+#   - name: Ghostbuster Prod
+#     url: $SECRET_SITE_GHOSTBUSTER_PROD
+#   - name: Hairs Prod
+#     url: $SECRET_SITE_HAIRS_PROD
+#   - name: News Prod
+#     url: $SECRET_SITE_NEWS_PROD
+#   - name: Orchestrator Prod
+#     url: $SECRET_SITE_ORCHESTRATOR_PROD
+#   - name: Promocao Prod
+#     url: $SECRET_SITE_PROMOCAO_PROD
+#   - name: Tesseract - Prod
+#     url: $SECRET_SITE_TESSERACT_PROD
+#   - name: Service Prod
+#     url: $SECRET_SITE_SERVICE_PROD
+#   - name: User Prod
+#     url: $SECRET_SITE_USER_PROD
+#   - name: Wallet Prod
+#     url: $SECRET_SITE_WALLET_PROD
+# #     Parco 1.0
+#   - name: Wallet Parco1.0 Prod
+#     url: $SECRET_SITE_WALLETV1_PROD
+#   - name: Princes Parco1.0 Prod
+#     url: $SECRET_SITE_PRINCESV1_PROD
+#   - name: Wiki
+#     url: $SECRET_SITE_WIKI
 assignees:
   - norman404
 
