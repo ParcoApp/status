@@ -1,7 +1,7 @@
 url: https://net.env.parcoapp.com/promocao
-status: down
-code: 503
-responseTime: 104
-lastUpdated: 2023-05-23T02:25:37.638Z
+status: up
+code: 200
+responseTime: 67
+lastUpdated: 2023-05-23T03:13:54.980Z
 startTime: Wed Oct 26 2022 17:30:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
