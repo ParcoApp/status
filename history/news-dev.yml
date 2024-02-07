@@ -1,7 +1,7 @@
 url: https://net.env.parcoapp.com/news
-status: up
-code: 200
-responseTime: 60
-lastUpdated: 2024-02-06T23:07:46.012Z
+status: down
+code: 504
+responseTime: 15094
+lastUpdated: 2024-02-07T06:01:02.353Z
 startTime: 2022-10-26T17:30:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
