@@ -1,7 +1,7 @@
 url: https://net.env.parcoapp.com/wallet
-status: down
-code: 503
-responseTime: 92
-lastUpdated: 2024-02-07T06:01:08.005Z
+status: up
+code: 200
+responseTime: 63
+lastUpdated: 2024-02-07T06:23:24.749Z
 startTime: 2022-10-26T17:30:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
