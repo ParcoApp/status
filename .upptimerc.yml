@@ -62,7 +62,6 @@ sites:
 #   - name: Wiki
 #     url: $SECRET_SITE_WIKI
 assignees:
-  - norman404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
